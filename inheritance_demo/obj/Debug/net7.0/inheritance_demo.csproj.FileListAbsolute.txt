@@ -1,0 +1,14 @@
+C:\Users\Anjukacad01\Desktop\CADBATCH\Project\csharp\inheritance_demo\bin\Debug\net7.0\inheritance_demo.exe
+C:\Users\Anjukacad01\Desktop\CADBATCH\Project\csharp\inheritance_demo\bin\Debug\net7.0\inheritance_demo.deps.json
+C:\Users\Anjukacad01\Desktop\CADBATCH\Project\csharp\inheritance_demo\bin\Debug\net7.0\inheritance_demo.runtimeconfig.json
+C:\Users\Anjukacad01\Desktop\CADBATCH\Project\csharp\inheritance_demo\bin\Debug\net7.0\inheritance_demo.dll
+C:\Users\Anjukacad01\Desktop\CADBATCH\Project\csharp\inheritance_demo\bin\Debug\net7.0\inheritance_demo.pdb
+C:\Users\Anjukacad01\Desktop\CADBATCH\Project\csharp\inheritance_demo\obj\Debug\net7.0\inheritance_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anjukacad01\Desktop\CADBATCH\Project\csharp\inheritance_demo\obj\Debug\net7.0\inheritance_demo.AssemblyInfoInputs.cache
+C:\Users\Anjukacad01\Desktop\CADBATCH\Project\csharp\inheritance_demo\obj\Debug\net7.0\inheritance_demo.AssemblyInfo.cs
+C:\Users\Anjukacad01\Desktop\CADBATCH\Project\csharp\inheritance_demo\obj\Debug\net7.0\inheritance_demo.csproj.CoreCompileInputs.cache
+C:\Users\Anjukacad01\Desktop\CADBATCH\Project\csharp\inheritance_demo\obj\Debug\net7.0\inheritance_demo.dll
+C:\Users\Anjukacad01\Desktop\CADBATCH\Project\csharp\inheritance_demo\obj\Debug\net7.0\refint\inheritance_demo.dll
+C:\Users\Anjukacad01\Desktop\CADBATCH\Project\csharp\inheritance_demo\obj\Debug\net7.0\inheritance_demo.pdb
+C:\Users\Anjukacad01\Desktop\CADBATCH\Project\csharp\inheritance_demo\obj\Debug\net7.0\inheritance_demo.genruntimeconfig.cache
+C:\Users\Anjukacad01\Desktop\CADBATCH\Project\csharp\inheritance_demo\obj\Debug\net7.0\ref\inheritance_demo.dll
