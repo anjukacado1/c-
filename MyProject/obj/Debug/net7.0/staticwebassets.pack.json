@@ -13,6 +13,54 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Anjukacad01\\Desktop\\CADBATCH\\Project\\csharp\\MyProject\\wwwroot\\images\\OFSLOGO.jpg",
+      "PackagePath": "staticwebassets\\images\\OFSLOGO.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anjukacad01\\Desktop\\CADBATCH\\Project\\csharp\\MyProject\\wwwroot\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\Anjukacad01\\Desktop\\CADBATCH\\Project\\csharp\\MyProject\\wwwroot\\images\\farmkart.jpg",
+      "PackagePath": "staticwebassets\\images\\farmkart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anjukacad01\\Desktop\\CADBATCH\\Project\\csharp\\MyProject\\wwwroot\\images\\slide 2.htm",
+      "PackagePath": "staticwebassets\\images\\slide 2.htm"
+    },
+    {
+      "Id": "C:\\Users\\Anjukacad01\\Desktop\\CADBATCH\\Project\\csharp\\MyProject\\wwwroot\\images\\slide 3.jpg--httpsi.postimg.ccMTvW2WZ4slide-3.jpg",
+      "PackagePath": "staticwebassets\\images\\slide 3.jpg--httpsi.postimg.ccMTvW2WZ4slide-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anjukacad01\\Desktop\\CADBATCH\\Project\\csharp\\MyProject\\wwwroot\\images\\slide 4.jpg",
+      "PackagePath": "staticwebassets\\images\\slide 4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anjukacad01\\Desktop\\CADBATCH\\Project\\csharp\\MyProject\\wwwroot\\images\\slide 5.jpg",
+      "PackagePath": "staticwebassets\\images\\slide 5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anjukacad01\\Desktop\\CADBATCH\\Project\\csharp\\MyProject\\wwwroot\\images\\slide 6.jpg",
+      "PackagePath": "staticwebassets\\images\\slide 6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anjukacad01\\Desktop\\CADBATCH\\Project\\csharp\\MyProject\\wwwroot\\images\\slide 7.jpg",
+      "PackagePath": "staticwebassets\\images\\slide 7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anjukacad01\\Desktop\\CADBATCH\\Project\\csharp\\MyProject\\wwwroot\\images\\slide 8.jpg",
+      "PackagePath": "staticwebassets\\images\\slide 8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anjukacad01\\Desktop\\CADBATCH\\Project\\csharp\\MyProject\\wwwroot\\images\\slide1.avif",
+      "PackagePath": "staticwebassets\\images\\slide1.avif"
+    },
+    {
+      "Id": "C:\\Users\\Anjukacad01\\Desktop\\CADBATCH\\Project\\csharp\\MyProject\\wwwroot\\images\\stock photo.webp",
+      "PackagePath": "staticwebassets\\images\\stock photo.webp"
+    },
+    {
       "Id": "C:\\Users\\Anjukacad01\\Desktop\\CADBATCH\\Project\\csharp\\MyProject\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
