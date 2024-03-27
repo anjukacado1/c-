@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/MyProject.styles.css" asp-append-version="true" />
+
+    <link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/fontawesome-all.min.css" asp-append-version="true" />
 </head>
 <body>
     <header>
@@ -47,10 +50,8 @@
             </div>
         </nav>
     </header>
-    <div class="container">
-        <main role="main" class="pb-3">
+    <div>
             @RenderBody()
-        </main>
     </div>
 
     <footer class="border-top footer text-muted">
