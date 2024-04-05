@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Anjukacad01\\Desktop\\CADBATCH\\Project\\csharp\\MyProject\\wwwroot\\images\\images1.jpg",
+      "PackagePath": "staticwebassets\\images\\images1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anjukacad01\\Desktop\\CADBATCH\\Project\\csharp\\MyProject\\wwwroot\\images\\images2.jpg",
+      "PackagePath": "staticwebassets\\images\\images2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anjukacad01\\Desktop\\CADBATCH\\Project\\csharp\\MyProject\\wwwroot\\images\\images3.jpg",
+      "PackagePath": "staticwebassets\\images\\images3.jpg"
+    },
+    {
       "Id": "C:\\Users\\Anjukacad01\\Desktop\\CADBATCH\\Project\\csharp\\MyProject\\wwwroot\\js\\easyResponsiveTabs.js",
       "PackagePath": "staticwebassets\\js\\easyResponsiveTabs.js"
     },
